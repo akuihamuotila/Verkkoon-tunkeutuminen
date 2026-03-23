@@ -1,3 +1,3 @@
 # Verkkoon-tunkeutuminen
 
-Hello world!
+Tänne repositorioon tallennan verkkoon tunkeutumiskurssin tehtävät.
